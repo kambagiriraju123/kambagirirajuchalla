@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table,thead,tbody,th,tr,td{
+    width: 40%;
+    font-style: bold;
+    border:2px black solid;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding-right:;
+    
+     
+
+}
+body{
+     background-color: cornsilk;
+     background-size:cover;
+}
+
+.abc{
+    font-style: normal ;
+    font-size: medium;
+    width:100%;
+
+}
+h1{
+    color:black;
+    font-style:italic;
+    font-size: 70px;
+}
+.ab{
+    font-style: italic;
+    width: 100%;
+}
+.r{
+    font-style: bold;
+    text-align: center;
+}
